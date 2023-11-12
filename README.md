@@ -1,2 +1,27 @@
 # PWA-React-Calculator
-An example of the progressive web application (PWA) in React application
+Example of the progressive web application (PWA) in React application
+
+# Getting Started
+
+## Install modules:
+
+```npm install```
+
+## Start
+
+```bash
+# using npm
+npm start
+
+# OR using Yarn
+yarn start
+```
+## Result
+
+### Web application appearance
+
+<img src="https://github.com/zahoruiko/React-Native-Calculator/blob/main/appLook/Screen-1.png" width="480" />
+
+### Desktop application appearance
+
+<img src="https://github.com/zahoruiko/React-Native-Calculator/blob/main/appLook/Screen-2.png" width="480" />

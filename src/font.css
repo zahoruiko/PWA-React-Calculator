@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'ZenDots-Regular':
+  src: local('ZenDots-Regular'),
+       url('./assets/fonts/ZenDots-Regular.woff') format('ttf');
+}

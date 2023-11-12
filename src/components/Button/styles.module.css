@@ -1,0 +1,30 @@
+.button {
+  background-color: #ffe1b3;
+  margin: 5px;
+  width: 75px;
+  height: 68px;
+  border: 1px solid #e59866;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #555;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.75);
+
+  font-family: ZenDots-Regular;
+  transition: ease-in-out 0.15s;
+
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+.button:active {
+  background-color: #EDBB99;
+  border: 1px solid #ffe1b3;
+}
