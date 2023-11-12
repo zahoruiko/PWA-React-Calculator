@@ -1,2 +1,2 @@
-# PWA-React-Native-Calculator
-An example of the progressive web application (PWA) in React Native application
+# PWA-React-Calculator
+An example of the progressive web application (PWA) in React application
