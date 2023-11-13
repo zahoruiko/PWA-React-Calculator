@@ -7,7 +7,7 @@ const CalculationsList = ({ data }) => {
       <div className={styles.listWrapper}>
         {data.map((item, id) => {
           return (
-            <div key={id} className={styles.listItemWrapper}>
+            <div key={id + 1} className={styles.listItemWrapper}>
               <div className={styles.displayText}>{item}</div>
             </div>
           );
