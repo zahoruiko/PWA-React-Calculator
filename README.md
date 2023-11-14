@@ -18,10 +18,6 @@ yarn start
 ```
 ## Result
 
-### Web application appearance
+### Application appearance
 
-<img src="https://github.com/zahoruiko/PWA-React-Calculator/blob/main/appLook/Screen-1.png" width="480" />
-
-### Desktop application appearance
-
-<img src="https://github.com/zahoruiko/PWA-React-Calculator/blob/main/appLook/Screen-2.png" width="480" />
+<img src="https://github.com/zahoruiko/PWA-React-Calculator/blob/main/appLook/video.gif" width="240" />
